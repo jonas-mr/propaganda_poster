@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    color: #007bff;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 0;
+}
+
+hr {
+    border-top: 2px solid #007bff;
+    margin-bottom: 30px;
+}
+
+.graph-container {
+    margin-bottom: 30px;
+}
+
+#propaganda_graph {
+    border-radius: 10px;
+}
+
+#max-distance {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+label {
+    font-weight: bold;
+}
+
+/* Responsive layout */
+@media (min-width: 768px) {
+    #left-section, #right-section {
+        width: 50%;
+        display: inline-block;
+        vertical-align: top;
+    }
+}

@@ -1,0 +1,5 @@
+https://cdm16866.contentdm.oclc.org/iiif/propaganda:355/manifest.json
+https://cdm16866.contentdm.oclc.org/iiif/propaganda:358/manifest.json
+https://cdm16866.contentdm.oclc.org/iiif/propaganda:362/manifest.json
+https://cdm16866.contentdm.oclc.org/iiif/propaganda:365/manifest.json
+https://cdm16866.contentdm.oclc.org/iiif/propaganda:368/manifest.json
